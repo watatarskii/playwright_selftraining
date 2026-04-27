@@ -25,5 +25,8 @@
     "bugs": {
         "url": "https://github.com/watatarskii/playwright_selftraining/issues"
     },
-    "homepage": "https://github.com/watatarskii/playwright_selftraining#readme"
+    "homepage": "https://github.com/watatarskii/playwright_selftraining#readme",
+    "dependencies": {
+        "readline-sync": "^1.4.10"
+    }
 }
